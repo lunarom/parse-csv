@@ -7,7 +7,8 @@ A simple script for finding discrepancies between two CSV files.
 
 Use npm to install and run Parse CSV
 
-```npm i
+```
+npm i
 npm run start
 ```
 
